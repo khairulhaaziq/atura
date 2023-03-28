@@ -1,0 +1,7 @@
+[
+	{
+		"questionName": "ft_strlen",
+		"fileNameToTest": "ft_strlen.c",
+		"executeCommand": "cc ft_strlen.test.c -o test_executable && ./test_executable"
+	}
+]
